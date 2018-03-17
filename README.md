@@ -36,5 +36,5 @@ The BFU provided you:
 
 ### Pre-Defined Error Codes
 ### GL/GLFW Error Checking
-### #c++ Error Checking
+### c++ Error Checking
 ### Simplified c++ Functions
