@@ -21,7 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-#HOW TO USE BFU:
+# HOW TO USE BFU:
 
 You can find function names and "how to use" as comments in "BFU.h" file.
 
@@ -30,7 +30,7 @@ You can find function names and "how to use" as comments in "BFU.h" file.
 |For more information or you want to suggest a patch/upgrade contact me! email: fedqx@hotmail.com | 
 ***************************************************************************************************
 
-#BENEFITS:
+# BENEFITS:
 
 The BFU provided you:
 
