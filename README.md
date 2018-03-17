@@ -27,14 +27,14 @@ You can find function names and "how to use" as comments in "BFU.h" file.
 
 
 ***************************************************************************************************
-# For more information or you want to suggest a patch/upgrade contact me! email: fedqx@hotmail.com  
+#### For more information or you want to suggest a patch/upgrade contact me! email: fedqx@hotmail.com  
 ***************************************************************************************************
 
 # BENEFITS:
 
 The BFU provided you:
 
-## Pre-Defined Error Codes
-## GL/GLFW Error Checking
-## #c++ Error Checking
-## Simplified c++ Functions
+### Pre-Defined Error Codes
+### GL/GLFW Error Checking
+### #c++ Error Checking
+### Simplified c++ Functions
