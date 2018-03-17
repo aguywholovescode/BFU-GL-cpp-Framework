@@ -23,10 +23,6 @@ SOFTWARE.
 
 HOW TO USE BFU:
 
-The files you need to include in order to use BFU is NOT locaded on Includes folder. 
-
-!!!!!!!THE FILES FOR INCLUDE ARE LOCATED IN BasicFrameWorkUtilities FOLDER !!!!!!!!!!
-
 You can find function names and "how to use" as comments in "BFU.h" file.
 
 
