@@ -1,6 +1,6 @@
 /*MIT License
 
-Copyright(c)[2018][Mehmet ÖZGÜN] <fedqx@hotmail.com>
+Copyright(c)[2018][Mehmet Ã–ZGÃœN] <fedqx@hotmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files(the "Software"), to deal
@@ -28,6 +28,7 @@ SOFTWARE.
 
 ErrorHandling::ErrorHandling()
 {
+	std::cout "created a error handler object !" << std::endl;
 }
 
 
