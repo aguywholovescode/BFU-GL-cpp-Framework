@@ -1,6 +1,6 @@
 /*MIT License
 
-Copyright(c)[2018][Mehmet ÖZGÜN] <fedqx@hotmail.com>
+Copyright(c)[2018][Mehmet Ã–ZGÃœN] <fedqx@hotmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files(the "Software"), to deal
@@ -32,7 +32,7 @@ SOFTWARE.
 #define Error_Cancelled -1 // error code for cancalled application
 #define Succes 1  // error code for Succesed applicaiton
 
-
+//test
 class ErrorHandling
 {
 
